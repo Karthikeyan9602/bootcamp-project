@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Weather Stats for - ALAPPUZHA || 23 Jun 2021| 12:10:06 PM
+---------------------------------------------------------
+Current temperature is: 27.47 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 80 %
+Current Wind speed    : 5.6 kmph
